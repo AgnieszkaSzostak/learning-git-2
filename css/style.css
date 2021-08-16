@@ -1,0 +1,30 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	font-family: Arial, sans-serif;
+	padding: 10px;
+  margin: 10px 40px;
+}
+
+.song {
+	width: 100%;
+	margin: 0 auto;
+	padding: 10px 50px;
+	line-height: 1.5rem;
+}
+
+ p, span {
+	color: #4d4d4d;
+}
+
+p {
+	margin-top: 10px;
+}
+
+ span {
+	display: block;
+	font-style: italic;
+	text-decoration: underline;
+}
