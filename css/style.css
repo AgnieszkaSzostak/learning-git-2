@@ -32,15 +32,15 @@ p {
 nav {
 	padding: 12px 0;
 	background-color: #a3a312;
+}
 
-	ul {
-		list-style-type: none;
-		
-		li {
-			display: inline-block;
-			margin: 0 36px 0 0;
-		}
-	}
+ul {
+	list-style-type: none;
+}		
+
+li {
+	display: inline-block;
+	margin: 0 36px 0 0;
 }
 
 footer {
