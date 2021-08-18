@@ -17,9 +17,7 @@
   },
   "homepage": "https://github.com/Jagnaa/learning-git-2#readme",
   "devDependencies": {
-    "browser-sync": "^2.27.5"
-  },
-  "dependencies": {
+    "browser-sync": "^2.27.5",
     "html-validate": "^5.2.1"
   },
   "description": ""
